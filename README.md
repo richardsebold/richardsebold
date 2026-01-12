@@ -79,7 +79,6 @@ Me chamo Richard Sebold, tenho 19 anos e sou natural de Santa Catarina. Atualmen
 
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -95,4 +94,3 @@ Me chamo Richard Sebold, tenho 19 anos e sou natural de Santa Catarina. Atualmen
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsebold&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
