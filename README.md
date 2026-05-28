@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Richard Sebold
+# 🧑‍💻 Richard Sebold
 
 **`Desenvolvedor FullStack`**
 
