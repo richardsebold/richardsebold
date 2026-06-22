@@ -1,6 +1,6 @@
 # 🧑‍💻 Richard Sebold
 
-**`Desenvolvedor FullStack`**
+**`QA`**
 
 <p> Estudante de Análise e Desenvolvimento de Sistemas na UDESC (3º semestre), busco minha primeira oportunidade na área de tecnologia. Possuo uma visão holística da tecnologia, com afinidade em hardware software. Sou um viciado em tecnologia, querendo aprender todos os dias, profissional, proativo, resiliente e comprometido com o aprendizado contínuo, focado em aplicar meus conhecimentos técnicos para criar soluções eficientes e inovadoras. Possuo conhecimento com JavaScript, TypeScript, Python, Node.js, API Rest, React, NextJS, TailwindCSS, HTML5 e CSS3, SQL, Git e Github. </p>
 ---
