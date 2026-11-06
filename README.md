@@ -1,6 +1,6 @@
 # Richard Sebold
 
-Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre). Gosto de entender o sistema inteiro, do teste ao deploy, e uso projetos pessoais para colocar isso em prática.
+Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre). Gosto de criar automações e de entender o sistema inteiro, do teste ao deploy. Uso projetos pessoais para colocar isso em prática.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsebold/)
 
@@ -19,10 +19,15 @@ Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas
   <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="Cypress" title="Cypress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
   <img alt="Playwright" title="Playwright" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+  <img alt="pytest" title="pytest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+  <img alt="Postman" title="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub Actions" title="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
   <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Claude Code" title="Claude Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
 </p>
 
 ---
@@ -31,7 +36,5 @@ Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas
 
 <p>
   <img alt="Resumo do perfil" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=richardsebold&theme=tokyonight" />
-  <img alt="Linguagens mais usadas" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richardsebold&theme=tokyonight" />
+  <img alt="Sequência de contribuições" height="180" src="https://streak-stats.demolab.com?user=richardsebold&theme=tokyonight&locale=pt_BR&hide_border=true" />
 </p>
-
-<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=richardsebold&theme=tokyonight&locale=pt_BR" />
