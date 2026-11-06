@@ -1,16 +1,14 @@
-# 🧑‍💻 Richard Sebold
+# Richard Sebold
 
 **`QA`** · Santa Catarina, Brasil
 
 Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre). Gosto de entender o sistema inteiro, do teste ao deploy, e uso projetos pessoais para colocar isso em prática.
 
-Trabalho com JavaScript, TypeScript, Python, Node.js, React, Next.js, Tailwind CSS, PostgreSQL, Cypress, Git e GitHub.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsebold/)
 
 ---
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
 **[priceMonitor](https://github.com/richardsebold/priceMonitor)** · [site](https://price-monitor-xi.vercel.app)
 SaaS que monitora o preço de produtos e avisa quando cai. Tem cadastro e login, planos pagos, histórico de preços em gráfico, alertas por e-mail e Telegram e uma extensão de navegador.
@@ -22,7 +20,7 @@ App de bandeja do Windows para a casa: controla o ar-condicionado por infraverme
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <p>
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -42,7 +40,7 @@ App de bandeja do Windows para a casa: controla o ar-condicionado por infraverme
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img alt="Resumo do perfil" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=richardsebold&theme=tokyonight" />
