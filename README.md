@@ -1,112 +1,52 @@
 # 🧑‍💻 Richard Sebold
 
-**`QA`**
+**`QA`** · Santa Catarina, Brasil
 
-<p> Estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre), busco minha primeira oportunidade na área de tecnologia. Possuo uma visão holística da tecnologia, com afinidade em hardware software. Sou um viciado em tecnologia, querendo aprender todos os dias, profissional, proativo, resiliente e comprometido com o aprendizado contínuo, focado em aplicar meus conhecimentos técnicos para criar soluções eficientes e inovadoras. Possuo conhecimento com JavaScript, TypeScript, Python, Node.js, API Rest, React, NextJS, TailwindCSS, HTML5 e CSS3, SQL, Git e Github. </p>
+Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre). Gosto de entender o sistema inteiro, do teste ao deploy, e uso projetos pessoais para colocar isso em prática.
+
+Trabalho com JavaScript, TypeScript, Python, Node.js, React, Next.js, Tailwind CSS, PostgreSQL, Cypress, Git e GitHub.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsebold/)
+
+---
+
+### 🚀 Projetos em destaque
+
+**[priceMonitor](https://github.com/richardsebold/priceMonitor)** · [site](https://price-monitor-xi.vercel.app)
+SaaS que monitora o preço de produtos e avisa quando cai. Tem cadastro e login, planos pagos, histórico de preços em gráfico, alertas por e-mail e Telegram e uma extensão de navegador.
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `Puppeteer` `Vitest` `GitHub Actions`
+
+**[casa-hub](https://github.com/richardsebold/casa-hub)**
+App de bandeja do Windows para a casa: controla o ar-condicionado por infravermelho, mostra as câmeras ao vivo e arma o alarme.
+`Python` `PyQt6` `Tuya` `go2rtc`
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<p>
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Cypress" title="Cypress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</p>
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=richardsebold&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<p>
+  <img alt="Resumo do perfil" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=richardsebold&theme=tokyonight" />
+  <img alt="Linguagens mais usadas" height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richardsebold&theme=tokyonight" />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsebold&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=richardsebold&theme=tokyonight&locale=pt_BR" />
