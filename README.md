@@ -8,15 +8,15 @@ Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas
 
 ---
 
-### Projetos em destaque
+### Projeto em destaque
 
 **[priceMonitor](https://github.com/richardsebold/priceMonitor)** · [site](https://price-monitor-xi.vercel.app)
 SaaS que monitora o preço de produtos e avisa quando cai. Tem cadastro e login, planos pagos, histórico de preços em gráfico, alertas por e-mail e Telegram e uma extensão de navegador.
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Better Auth` `Puppeteer` `Vitest` `GitHub Actions`
 
-**[casa-hub](https://github.com/richardsebold/casa-hub)**
-App de bandeja do Windows para a casa: controla o ar-condicionado por infravermelho, mostra as câmeras ao vivo e arma o alarme.
-`Python` `PyQt6` `Tuya` `go2rtc`
+- **Frontend:** `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `React Hook Form` `Zod` `Recharts`
+- **Backend e dados:** `Node.js` `PostgreSQL` `Prisma` `Better Auth` `Puppeteer`
+- **Integrações:** `AbacatePay` `Resend` `React Email` `Telegram Bot API`
+- **Qualidade e deploy:** `Vitest` `ESLint` `GitHub Actions` `Docker` `Vercel`
 
 ---
 
@@ -34,6 +34,7 @@ App de bandeja do Windows para a casa: controla o ar-condicionado por infraverme
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Cypress" title="Cypress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+  <img alt="Playwright" title="Playwright" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>
