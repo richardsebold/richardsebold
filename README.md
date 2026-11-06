@@ -1,22 +1,8 @@
 # Richard Sebold
 
-**`QA`** · Santa Catarina, Brasil
-
 Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre). Gosto de entender o sistema inteiro, do teste ao deploy, e uso projetos pessoais para colocar isso em prática.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsebold/)
-
----
-
-### Projeto em destaque
-
-**[priceMonitor](https://github.com/richardsebold/priceMonitor)** · [site](https://price-monitor-xi.vercel.app)
-SaaS que monitora o preço de produtos e avisa quando cai. Tem cadastro e login, planos pagos, histórico de preços em gráfico, alertas por e-mail e Telegram e uma extensão de navegador.
-
-- **Frontend:** `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `React Hook Form` `Zod` `Recharts`
-- **Backend e dados:** `Node.js` `PostgreSQL` `Prisma` `Better Auth` `Puppeteer`
-- **Integrações:** `AbacatePay` `Resend` `React Email` `Telegram Bot API`
-- **Qualidade e deploy:** `Vitest` `ESLint` `GitHub Actions` `Docker` `Vercel`
 
 ---
 
