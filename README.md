@@ -1,7 +1,5 @@
 # Richard Sebold
 
-Estagiário de QA na Twygo e estudante de Análise e Desenvolvimento de Sistemas na UDESC (4º semestre). Gosto de criar automações e de entender o sistema inteiro, do teste ao deploy. Uso projetos pessoais para colocar isso em prática.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsebold/)
 
 ---
